@@ -13,7 +13,7 @@ Laravel · Vue.js · Web3 · Python · Symfony · Django
 
 ---
 
-I build production-grade backend systems and blockchain-powered platforms. Currently working full-time on **Mintme** — a live cryptocurrency exchange supporting token creation, real-time trading, and wallet management for thousands of users. I care about writing APIs that are reliable, well-structured, and built to scale.
+I build production-grade backend systems and blockchain-powered platforms. Currently working full-time on [**Mintme**](https://mintme.com) — a live cryptocurrency exchange supporting token creation, real-time trading, and wallet management for thousands of users. I care about writing APIs that are reliable, well-structured, and built to scale.
 
 ---
 
