@@ -1,11 +1,14 @@
 <div align="center">
+
 # Marwan Mamdouh
 
-**Full-Stack Developer** · Laravel · Vue.js · Web3 · Python
+**Full-Stack Developer** </br>
+Laravel · Vue.js · Web3 · Python · Symfony · Django
 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwan.mamdouh.kotb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-mamdouh-7613b21b5/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/marwan_mamdouh_1)
+
 </div>
 
 ---
